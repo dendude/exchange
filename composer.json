@@ -1,12 +1,12 @@
 {
-  "name": "jurager/exchange",
+  "name": "dendude/exchange",
   "description": "Package for Laravel for integrating with 1C:Enterprise",
   "keywords": ["1C", "CommerceML", "Laravel"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Yuri Gerassimov",
-      "email": "jurager01@gmail.com"
+      "name": "Denis K",
+      "email": "worker.hot@gmail.com"
     }
   ],
   "require": {
